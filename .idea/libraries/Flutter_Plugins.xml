@@ -1,11 +1,13 @@
 <component name="libraryTable">
   <library name="Flutter Plugins" type="FlutterPluginsLibraryType">
     <CLASSES>
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/path_provider_windows-0.0.4+3" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/path_provider_linux-0.0.1+2" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/path_provider_macos-0.0.4+6" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/path_provider-1.6.24" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/audioplayers-0.16.2" />
+      <root url="file://$USER_HOME$/AppData/Local/Android/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_macos-2.0.6" />
+      <root url="file://$USER_HOME$/AppData/Local/Android/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_android-2.0.19" />
+      <root url="file://$USER_HOME$/AppData/Local/Android/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-2.0.11" />
+      <root url="file://$USER_HOME$/AppData/Local/Android/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_ios-2.0.11" />
+      <root url="file://$USER_HOME$/AppData/Local/Android/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_linux-2.1.7" />
+      <root url="file://$USER_HOME$/AppData/Local/Android/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_windows-2.1.2" />
+      <root url="file://$USER_HOME$/AppData/Local/Android/flutter/.pub-cache/hosted/pub.dartlang.org/audioplayers-0.18.3" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
