@@ -16,7 +16,6 @@ Don't forget to star⭐ and contribute if you want.
 <img src="assets/home_screen.png" height="400" alt="Screenshot"/> 
 
 
-
 # Requirements
 - Any Operating System (ie. MacOS X, Linux, Windows)
 - Any IDE with Flutter SDK installed (ie. Android Studio, VSCode etc)
